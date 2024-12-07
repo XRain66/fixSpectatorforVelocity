@@ -1,0 +1,2 @@
+# fixSpectatorforVelocity
+修复velocity旁观者不生效的问题
