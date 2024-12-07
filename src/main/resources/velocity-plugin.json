@@ -1,0 +1,8 @@
+{
+  "id": "spectatorfix",
+  "name": "SpectatorFix",
+  "version": "1.0-SNAPSHOT",
+  "description": "Fixes spectator mode issues in Velocity",
+  "authors": ["XRain666"],
+  "main": "com.example.spectatorfix.SpectatorFix"
+}
